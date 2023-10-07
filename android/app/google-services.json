@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "428006438322",
+    "project_id": "react-native-rtdb",
+    "storage_bucket": "react-native-rtdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428006438322:android:6d1617a3a3835b418560ab",
+        "android_client_info": {
+          "package_name": "com.firebasenativeapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8z0qAjb7YMw1PxWlzpaQ4jQI9jH503pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
