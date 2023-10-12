@@ -4,7 +4,6 @@ import AddFriendScreen from "./screens/AddFriend";
 import HomeScreen from "./screens/Home";
 import LoginScreen from "./screens/Login";
 import MessageScreen from "./screens/Message";
-import MessagesSummaryScreen from "./screens/MessagesSummary";
 import SignupScreen from "./screens/Signup";
 
 const MainNavigator = () => {
@@ -29,7 +28,6 @@ const MainNavigator = () => {
         <Stack.Screen name={"Home"} component={HomeScreen}/>
         <Stack.Screen name={"Login"} component={LoginScreen}/>
         <Stack.Screen name={"Message"} component={MessageScreen}/>
-        <Stack.Screen name={"MessagesSummary"} component={MessagesSummaryScreen} />
         <Stack.Screen name={"Signup"} component={SignupScreen}/>
      </Stack.Navigator>
     )
